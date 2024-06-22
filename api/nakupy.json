@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "name": "Šťastný Tymián",
+        "price": "100 Kč",
+        "use": "na nachlazení či ryby",
+        "img": "/assets/tymian.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Vychytralá Bazalka",
+        "price": "100 Kč",
+        "use": "na pizzu či bagetku",
+        "img": "/assets/bazalka.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Divoké Oregano",
+        "price": "100 Kč",
+        "use": "na špagety či cokoli jiného",
+        "img": "/assets/oregano.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Smyslná Majoránka",
+        "price": "100 Kč",
+        "use": "na bramborák či grilovaný hermelín",
+        "img": "/assets/majoranka.jfif"
+      },
+      {
+        "id": 4,
+        "name": "Brutální Trinidad Moruga Scorpion Red",
+        "price": "100 Kč",
+        "use": "na zvednutí tlaku, adrenalinu či hostů ze židle",
+        "img": "/assets/papricky.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Hřejivá Skořice",
+        "price": "100 Kč",
+        "use": "na perníčky či svařák",
+        "img": "/assets/skorice.jfif"
+      }
+  ]
+  
